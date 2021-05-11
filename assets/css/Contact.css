@@ -23,14 +23,19 @@ body {
 .footer {
   color: darkgray;
   margin-top: 200px;
-  margin-left: 25%;
+  text-align: center;
+}
+
+.smImg {
+  width: 35px;
+  height: 35px;
 }
 
 @media screen and (max-width: 576px) {
   .card-body {
     width: 100%;
   }
-  .card{
+  .card {
     min-width: 100%;
   }
 }

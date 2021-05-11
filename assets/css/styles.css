@@ -1,11 +1,25 @@
-    body {
-      background-color: rgb(53, 53, 53);
-      color: white;
-    }
+body {
+  background-color: rgb(53, 53, 53);
+  color: white;
+}
 
+.container {
+  margin-top: 5%;
+  background-color: rgb(93, 93, 93);
+}
 
-    .footer {
-      color: darkgray;
-      margin-top: 200px;
-      margin-left: 25%;
-    }
+.img-fluid {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.footer {
+  color: darkgray;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.smImg {
+  width: 35px;
+  height: 35px;
+}
