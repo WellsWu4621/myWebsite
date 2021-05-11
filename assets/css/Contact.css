@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(53, 53, 53);
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin: auto;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.card-body {
+  width: 85%;
+}
+
+.card-link {
+  color: lightyellow;
+}
+
+.footer {
+  color: darkgray;
+  margin-top: 200px;
+  margin-left: 25%;
+}
+
+@media screen and (max-width: 576px) {
+  .card-body {
+    width: 100%;
+  }
+  .card{
+    min-width: 100%;
+  }
+}
