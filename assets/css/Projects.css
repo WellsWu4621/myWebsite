@@ -3,6 +3,19 @@
       color: white;
     }
 
+    .container {
+      margin-top: 5%;
+      background-color: rgb(93, 93, 93);
+    }
+
+    .col {
+      padding: 10px;
+    }
+
+    .projImg {
+      size:inherit;
+    }
+    
     .footer {
       color: darkgray;
       margin-top: 200px;
