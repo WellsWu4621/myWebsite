@@ -16,7 +16,7 @@
 
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container-fluid">
       <a class="navbar-brand" href="../../index.html">Wells's Website</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -42,26 +42,29 @@
   <div class="card text-white bg-primary" style="width: 75%;">
     <div class="card-body">
       <!-- contact bar -->
-      <h4 class="card-title">Contact Me</h4>
+      <h4 class="card-title h4Contact">Contact Me</h4>
+              <a class="text-warning" href="../files/Resume_Website_copy.pdf" download="Wells_Wu_Resume">Resume</a>
+              <a class="text-warning" href="mailto:wellswu.dev@gmail.com">Email</a>
       <hr>
       <!-- Name section -->
       <p class="card-text">Name
-      <div class="input-group flex-nowrap">
-        <input type="text" class="form-control" placeholder="Name" aria-label="Username"
+        <div class="input-group flex-nowrap">
+          <input type="text" class="form-control" placeholder="Name" aria-label="Username"
           aria-describedby="addon-wrapping">
-      </div>
-      <!-- Email -->
-      <div class="mb-3">
-        <label for="exampleFormControlInput1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-      </div>
-      <!-- message Box -->
-      <div class="mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-      </div>
+        </div>
+        <!-- Email -->
+        <div class="mb-3">
+          <label for="exampleFormControlInput1" class="form-label">Email address</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <!-- message Box -->
+        <div class="mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
       </p>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="card-link">Submit</a>
+
     </div>
   </div>
 
@@ -75,6 +78,11 @@
     </section>
     <!-- social media buttons -->
     <div class="btn-group" role="group" aria-label="Basic example">
+      <button type="button" class="btn btn-primary">
+        <a href="https://github.com/WellsWu4621/">
+          <img src="../images/gitoctocat.png" alt="octocat" class="smImg">
+        </a>
+      </button>
       <button type="button" class="btn btn-primary">
         <a href="https://www.linkedin.com/in/wells-wu-169497125/">
           <img src="../images/linkedin.png" alt="linkedin" class="smImg">
