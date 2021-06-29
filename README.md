@@ -1,11 +1,34 @@
-# myWebsite
-My personal Website version
-This website is simple and contains 3 main pages.
+# myWebsite  
+  ![License Badge](https://img.shields.io/badge/license-MIT-green)
+  
+  ## Description:  
+  A simple website with 3 main pages: a title, Contact, and Portfolio page. The porfolio consists of some assignments I am proud of. The Contacts and footer page contain links to my accounts or sends a message to me. There is also a button to download my resume.
 
-The main page, is the About Me page approached with a simple two column grid with a navbar and footer
+  ## Table of Contents:  
+  - [Description](#-description)
+  - [Table of Contents](#-table-of-contents)
+  - [Installation](#-installation)
+  - [Usage](#-usage)
+  - [Contributing](#-contributing)
+  - [Tests](#-tests)
+  - [Questions](#-questions)
 
-The Portfolio page consists of 4 projects that I have clearly made. There is absolutely no lie there. It has 4 cells with a card in each cell. The links all lead to the "deployed version" of the site.
+  ## Installation:  
+  go to the Github repo. 2. Clone the repo.
 
-Contacts page is only a card with a method to add name, email, and message. Unfortunately the submit button will not actually submit the message anywhere, though it does link to somewhere?
+  ## Usage:  
+  It is a simple personal website
+  
+  ## Contributing:  
+  Me
+  
+  ## Tests:  
+  LOOK AT ME
 
-The footer has links to social media links, the other pages, and a copyright xD.
+  ![myWebsite](./assets/images/portfolio.png)
+  
+  ## Questions:  
+  Contact Me: [Github](https://gist.github.com/WellsWu4621), or Email Me @wellsewu.dev@gmail.com  
+  Repository Link [myWebsite](https://github.com/WellsWu4621/myWebsite)
+
+
